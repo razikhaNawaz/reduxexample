@@ -1,11 +1,12 @@
 import React from 'react'
-import Counter from './Counter'
+import ProductForm from './ProductForm'
+
 
 
 const App = () => {
   return (
-   <Counter />
-    
+   
+    <ProductForm />
   )
 }
 
